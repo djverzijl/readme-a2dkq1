@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djverzijl.github.io/readme-a2dkq1/sitemap.xml
